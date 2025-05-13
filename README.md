@@ -61,11 +61,12 @@ I have successfully implemented and executed comprehensive SEO strategies that d
 - **[Lighthouse](https://developers.google.com/web/tools/lighthouse)**: Used for website speed and performance audits to optimize load time and overall site health.
 - **[GTmetrix](https://www.gtmetrix.com/)**: Conducted speed and performance assessments to improve user experience and site performance.
 
-## 📣 Product Launch & Growth Highlights
+## 🚀 Product Hunt Launches
 
-- Successfully launched **Maxim AI** on [Product Hunt](https://www.producthunt.com/products/maxim-ai#maxim), earning **150+ upvotes** and triggering a surge in international traffic.
-- The launch helped strengthen the brand's presence across developer and AI product communities, particularly in the US market.
-- Collaborated across content, SEO, and product to ensure positioning aligned with Maxim’s core value of LLM observability and evaluation.
+- 🟠 **Maxim AI Launch:** Led the launch of [Maxim AI](https://www.producthunt.com/products/maxim-ai#maxim) on Product Hunt, resulting in **150+ upvotes**, a significant **traffic surge**, and expanded **international reach** with majority traffic from the **US and India**.
+
+- 🎁 **Your Secret Santa:** Built and launched [Your Secret Santa](https://www.producthunt.com/products/secret-santa-gifting-network), a gifting coordination app that was **featured on Product Hunt**, gaining visibility and traction during the holiday season.
+
 
 
 
