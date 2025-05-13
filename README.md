@@ -1,4 +1,5 @@
-# AI and SAAS GTM CV
+# AI & SaaS Product Growth & GTM Resume
+
 ## 👨‍💻 About Me
 
 I’m an **AI Engineer turned Technical Writer & SEO Strategist** with a strong grasp of LLM workflows, product-led growth (PLG), and technical content marketing. At **Maxim AI**, I worked closely with the founding team, leading efforts across **AI, SDK development, and technical content**. I fine-tuned models, built POC applications, designed evaluators using LLM-as-a-judge frameworks, and authored cookbooks and teardown blogs to demystify concepts like RAG, agents, and evaluation pipelines.
