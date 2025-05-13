@@ -1,4 +1,4 @@
-# Technical Content Writer & SEO Expert - CV
+# AI and SAAS GTM CV
 ## 👨‍💻 About Me
 
 I’m an **AI Engineer turned Technical Writer & SEO Strategist** with a strong grasp of LLM workflows, product-led growth (PLG), and technical content marketing. At **Maxim AI**, I worked closely with the founding team, leading efforts across **AI, SDK development, and technical content**. I fine-tuned models, built POC applications, designed evaluators using LLM-as-a-judge frameworks, and authored cookbooks and teardown blogs to demystify concepts like RAG, agents, and evaluation pipelines.
@@ -65,6 +65,15 @@ I have successfully implemented and executed comprehensive SEO strategies that d
 - Successfully launched **Maxim AI** on [Product Hunt](https://www.producthunt.com/products/maxim-ai#maxim), earning **150+ upvotes** and triggering a surge in international traffic.
 - The launch helped strengthen the brand's presence across developer and AI product communities, particularly in the US market.
 - Collaborated across content, SEO, and product to ensure positioning aligned with Maxim’s core value of LLM observability and evaluation.
+
+---
+
+## 📄 Download My Full CV
+
+You can view or download the complete version of my CV here:
+
+👉 [View Full CV (PDF)](https://drive.google.com/file/d/1UBlh5-Uw703fIibz-vW67hEqfhfFCmxY/view?usp=sharing)
+
 
 
 
