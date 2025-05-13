@@ -27,3 +27,20 @@ At **Maxim AI**, an AI evaluation and observability platform, I authored deeply 
 
 > 🧠 All blog content was **deeply technical**, included **code snippets**, **architectural diagrams**, and **research paper teardowns**. These pieces drove product awareness, SEO traffic, and served as educational content for Maxim AI's observability tooling.
 
+## 📚 Cookbooks & Agentic Workflows
+
+At **Maxim AI**, I developed hands-on cookbooks to showcase various RAG techniques, agentic workflows, and observability practices using the Maxim SDK. These cookbooks are designed to help LLM engineers implement evaluation, monitoring, and debugging in real-world LLM applications.
+
+| Title | Description |
+|-------|-------------|
+| **[LlamaIndex Online Evaluation](https://github.com/maximhq/maxim-cookbooks/tree/main/python/observability-online-eval/llamaindex)** | Demonstrates observability integration with LlamaIndex in a RAG pipeline. Tracks retrieval quality, hallucination metrics, and response scores. |
+| **[LangGraph Evaluation Pipeline](https://github.com/maximhq/maxim-cookbooks/tree/main/python/observability-online-eval/langgraph)** | Integrates Maxim SDK with LangGraph agent workflows to log and evaluate performance at each graph node. |
+| **[Customer Support Agent (LangChain)](https://github.com/maximhq/maxim-cookbooks/tree/main/python/observability-online-eval/customer-support-agent)** | LangChain-based agent simulating a support assistant with memory, tools, and multi-turn conversation tracking. |
+| **[Cooking Assistant with CrewAI](https://github.com/maximhq/maxim-cookbooks/tree/main/python/observability-online-eval/crew-ai/cooking-agent)** | Role-based agent system using CrewAI to plan meals and execute tasks with inter-agent communication and evaluation. |
+| **[Hybrid RAG Pipeline](https://github.com/maximhq/maxim-cookbooks/tree/main/python/observability-online-eval/hybrid-rag)** | Implements hybrid retrieval using BM25 and dense vectors with reranking and response validation instrumentation. |
+| **[ReACT Agent with Online Feedback](https://github.com/maximhq/maxim-cookbooks/tree/main/python/observability-online-eval/re-ACT-agent)** | Uses ReACT-style reasoning with integrated online evaluation and log-based feedback via the Maxim SDK. |
+| **[Swarm Agent Architecture](https://github.com/maximhq/maxim-cookbooks/tree/main/python/observability-online-eval/swarm-agent)** | Demonstrates agent swarming behavior using CrewAI and AutoGen, complete with interaction-level evaluation logic. |
+
+> 🛠️ These examples illustrate how to combine RAG, agentic reasoning, and real-time evaluation using Maxim's observability tools.
+
+
