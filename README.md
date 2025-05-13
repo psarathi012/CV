@@ -81,7 +81,7 @@ I have successfully implemented and executed comprehensive SEO strategies that d
 
 You can view or download my full resume here:
 
-**[🔗 View CV (PDF)](https://drive.google.com/file/d/1F7-f0Tgepqh4ejkqVATYDYn93lTnUhMu/view?usp=sharing)**
+**[🔗 View CV (PDF)](https://drive.google.com/file/d/1r9WfJtZ74IMbQNZphEe5866XsP-hgoX9/view?usp=sharing)**
 
 This PDF includes additional details on my work experience, education, and technical projects.
 
