@@ -43,4 +43,22 @@ At **Maxim AI**, I developed hands-on cookbooks to showcase various RAG techniqu
 
 > 🛠️ These examples illustrate how to combine RAG, agentic reasoning, and real-time evaluation using Maxim's observability tools.
 
+## 📈 SEO & Traffic Growth
+
+I have successfully implemented and executed comprehensive SEO strategies that drive organic growth and improve website visibility. Over the course of 4 months, I significantly improved domain authority (DR) and diversified traffic across key geographies while also increasing the number of backlinks. Below are key accomplishments and tools used in the process.
+
+### 📊 Key Achievements:
+- **Domain Rating (DR):** Increased DR from **0** to **18**.
+- **Backlinks:** Grew the number of backlinks from **0** to **2.1k**.
+- **Traffic Diversification:** 
+  - **US Traffic:** 60% of the overall website traffic (Primary market for selling).
+  - **India Traffic:** 38% of the overall website traffic (Emerging market).
+  
+### 🛠️ Tools & Platforms Used:
+- **[Google Search Console](https://search.google.com/search-console)**: Used to monitor, analyze, and optimize website performance in search results. 
+- **[Ahrefs](https://ahrefs.com/)**: Conducted comprehensive backlink analysis, keyword research, and site audits.
+- **[Lighthouse](https://developers.google.com/web/tools/lighthouse)**: Used for website speed and performance audits to optimize load time and overall site health.
+- **[GTmetrix](https://www.gtmetrix.com/)**: Conducted speed and performance assessments to improve user experience and site performance.
+
+
 
