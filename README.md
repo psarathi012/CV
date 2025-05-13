@@ -7,6 +7,13 @@ With hands-on experience in **technical SEO**, I understand how to turn dense en
 
 ## ✍️ Technical Writing
 
+### 📘 Official Documentation
+
+- Authored and maintained the entire [Maxim AI documentation](https://www.getmaxim.ai/docs/introduction/overview), covering SDK usage, agent integrations, evaluator configuration, and platform features.
+- Wrote onboarding guides, API references, and observability walkthroughs to support developers building with Maxim AI.
+
+### 📝 Technical Blogs
+
 At **Maxim AI**, an AI evaluation and observability platform, I authored deeply technical blogs aimed at advancing understanding of LLM performance, evaluation methodologies, and system reliability. These articles were part of our product-led growth (PLG) motion and served dual purposes: educating technical audiences and driving adoption of Maxim's SDK and platform tools.
 
 | Blog Title | Description |
