@@ -73,7 +73,7 @@ I have successfully implemented and executed comprehensive SEO strategies that d
 
 You can view or download the complete version of my CV here:
 
-👉 [View Full CV (PDF)](https://drive.google.com/file/d/1UBlh5-Uw703fIibz-vW67hEqfhfFCmxY/view?usp=sharing)
+👉 [View Full CV (PDF)]([https://drive.google.com/file/d/1UBlh5-Uw703fIibz-vW67hEqfhfFCmxY/view?usp=sharing](https://drive.google.com/file/d/1F7-f0Tgepqh4ejkqVATYDYn93lTnUhMu/view?usp=sharing))
 
 
 
