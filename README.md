@@ -67,15 +67,15 @@ I have successfully implemented and executed comprehensive SEO strategies that d
 - The launch helped strengthen the brand's presence across developer and AI product communities, particularly in the US market.
 - Collaborated across content, SEO, and product to ensure positioning aligned with Maxim’s core value of LLM observability and evaluation.
 
+
+
 ---
 
-## 📄 Download My Full CV
+## 📄 Full Resume
 
-You can view or download the complete version of my CV here:
+You can view or download my full resume here:
 
-👉 [View Full CV (PDF)]([https://drive.google.com/file/d/1UBlh5-Uw703fIibz-vW67hEqfhfFCmxY/view?usp=sharing](https://drive.google.com/file/d/1F7-f0Tgepqh4ejkqVATYDYn93lTnUhMu/view?usp=sharing))
+**[🔗 View CV (PDF)](https://drive.google.com/file/d/1F7-f0Tgepqh4ejkqVATYDYn93lTnUhMu/view?usp=sharing)**
 
-
-
-
+This PDF includes additional details on my work experience, education, and technical projects.
 
