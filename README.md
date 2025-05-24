@@ -1,4 +1,4 @@
-# AI & SaaS Product Growth & GTM Resume
+# Resume
 
 ## 👨‍💻 About Me
 
